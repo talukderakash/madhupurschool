@@ -1,0 +1,11 @@
+.bg-dsign{
+    background-image: url("https://image.shutterstock.com/image-illustration/creative-educational-sketch-on-chalkboard-260nw-1451060429.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 780px;
+  width: 100%;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+}

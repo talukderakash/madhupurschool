@@ -1,0 +1,82 @@
+[
+    {
+      "images": "https://image.shutterstock.com/image-photo/distance-learning-online-education-schoolboy-260nw-1678820161.jpg",
+      "className": "One",
+      "tuitionFees": "200 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 12:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3qc_WmkrU1YzUSIQGfpU7B3prlU2TctRsoEfRLi-thhOJDI2emXUCZQhmb29QvEOiVQw&usqp=CAU",
+      "className": "Two",
+      "tuitionFees": "400 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 1:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRS49JLag1Z4fIPcYcwqb13wzSyKEUi4jz7KvjvP9Z__nzahcAaXPLayr_FiWs28jHQo&usqp=CAU",
+      "className": "Three",
+      "tuitionFees": "600 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 2:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpIbfrhS8n41ILevHr-jWGUN6_6DFOWZWCiA&usqp=CAU",
+      "className": "Four",
+      "tuitionFees": "800 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 03:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yH0R1RBaBAODGvmrN09RWnBPOV6C8pD3Zg&usqp=CAU",
+      "className": "Five",
+      "tuitionFees": "900 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 3:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGFHSNjZ9DvCpbV472frRO76m7zHDYWsdKQ&usqp=CAU",
+      "className": "Six",
+      "tuitionFees":"1000 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 04:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfz1MABumdbtDaABzaMv2fWqfsT2gS-94s-Q&usqp=CAU",
+      "className": "Seven",
+      "tuitionFees": "1100 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 04:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://c8.alamy.com/comp/JB0273/single-student-browsing-content-on-line-in-a-laptop-sitting-in-a-desk-JB0273.jpg",
+      "className": "Eight",
+      "tuitionFees": "1400 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math",
+      "ClassTime": "10:00am to 04:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnEomfIgmMQd2vZpY6QuHtpe-8AW-hlIr2g&usqp=CAU",
+      "className": "Nine",
+      "tuitionFees": "1500 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math,Sceince",
+      "ClassTime": "10:00am to 04:00pm",
+      "HomeWork": "Every Day"
+    },
+    {
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3XF1nZ-LdPr7VpAKZDevAbGwpOPN6llJHA&usqp=CAU",
+      "className": "Ten",
+      "tuitionFees": "1500 Taka/Month",
+      "Subject": "bangla,English,Arbi,Math,Sceince",
+      "ClassTime": "10:00am to 04:00pm",
+      "HomeWork": "Every Day"
+    }
+  ]

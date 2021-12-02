@@ -1,0 +1,12 @@
+.body-color{
+    color: red;
+    background-image: url('https://image.freepik.com/free-vector/404-error-with-astronaut-line-galaxy-background_114341-124.jpg'),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 780px;
+    width: 100%;
+  /* border: 1px solid red; */
+     background-blend-mode: overlay;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+}
